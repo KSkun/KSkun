@@ -11,4 +11,4 @@ I'm KSkun, an undergraduate from Huazhong U. of Sci. & Tech., majored in Electro
 
 [![KSkun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSkun)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KSkun)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KSkun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
