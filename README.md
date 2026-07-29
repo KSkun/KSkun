@@ -9,6 +9,6 @@ I'm KSkun, a gameplay programmer.
 - ⚡ Fun fact: I'm also interested in ACGN and JRPG games. [*Honkai: Star Rail*](https://sr.mihoyo.com/ad) is a good choice.
 - Here's my blog: https://ksmeow.moe
 
-[![KSkun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSkun)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KSkun&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=KSkun&show_icons=true&include_all_commits=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KSkun&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=KSkun&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=KSkun&langs_count=4&theme=transparent)
