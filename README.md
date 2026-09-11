@@ -2,7 +2,7 @@
 
 I'm KSkun, a gameplay programmer.
 
-- 🔭 I’m currently developing an indie game with 3D freelook breakthrough gameplay in Bingyan Studio, and a fanworks visual novel game of Ave Mujica.
+- 🔭 I’m currently working in the video game industry.
 - 🌱 I’m currently improving gameplay developing skills.
 - 🤔 I’m looking for friends on game dev.
 - 📫 How to reach me: email to ks#ksmeow.moe.
